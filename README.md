@@ -1,8 +1,8 @@
 # mrsan-ads-sdk
 A library for displaying ads from multiple ads sdk
 
-Ads Sdk list:
+<b>Ads Sdk list:</b>
 
-AdMob
-Google Ad Manager
-Meta Audience Network
+<li>AdMob</li>
+<li>Google Ad Manager</li>
+<li>Meta Audience Network</li>
